@@ -1,0 +1,7 @@
+<div class="space-y-6">
+    
+
+    <div class="flex items-center gap-4">
+        <flux:button variant="primary" type="submit">{{ __('Submit') }}</flux:button>
+    </div>
+</div>
